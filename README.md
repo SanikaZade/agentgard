@@ -378,7 +378,7 @@ model.add(Dense(units=36, activation='softmax')){% endhighlight %}
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-1">
-        <img class="img-fluid rounded z-depth-0" src="https://cdn-images-1.medium.com/max/10140/1*cEpnL1pqYe45cBZIfOxASw.png">
+    
     </div>
 </div>
 
@@ -496,14 +496,5 @@ The output-
 </div>
 
 ![]()
-
->  **Final comment**
-
-Thank you guys for reading the blog, hope this project is useful for some of you aspiring to do projects on OCR, image processing, Machine Learning, IoT.
-
-And if you have any doubts regarding this project, please leave a comment in the response section.
-
-The full project is available on my Github:
-[https://github.com/SarthakV7/AI-based-indian-license-plate-detection](https://github.com/SarthakV7/AI-based-indian-license-plate-detection)
 
 Find me on LinkedIn: [www.linkedin.com/in/sarthak-vajpayee](http://www.linkedin.com/in/sarthak-vajpayee)
