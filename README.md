@@ -90,32 +90,25 @@ Output Plate Number
 # Tech Stack
 
 ## Programming Language
-
 - Python
 
 ## Computer Vision
-
 - OpenCV
 
 ## Deep Learning
-
 - TensorFlow
 - Keras
 
 ## Machine Learning
-
 - Scikit-Learn
 
 ## Numerical Computing
-
 - NumPy
 
 ## Data Handling
-
 - Pandas
 
 ## Development Environment
-
 - Jupyter Notebook
 
 ---
