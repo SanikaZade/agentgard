@@ -9,7 +9,6 @@ An AI-powered Automatic License Plate Recognition (ALPR) system designed to dete
 This project performs automatic license plate detection and character recognition through a multi-stage image processing and machine learning pipeline.
 
 The system consists of:
-
 - License Plate Detection
 - Image Preprocessing
 - Character Segmentation
