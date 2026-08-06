@@ -12,7 +12,8 @@ def find_contours(dimensions, img) :
     upper_width = dimensions[1]
     lower_height = dimensions[2]
     upper_height = dimensions[3]
-    
+
+
 
     # Check largest 5 or  15 contours for license plate or character respectively
     cntrs = sorted(cntrs, key=cv2.contourArea, reverse=True)[:15]
