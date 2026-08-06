@@ -177,12 +177,5 @@ AI-License-Plate-Detector/
 
 ```
 
----
 
-# Installation
 
-Clone the repository
-
-```bash
-git clone https://github.com/SanikaZade/ai_powered_license_plate_detector.git
-cd ai_powered_license_plate_detector
